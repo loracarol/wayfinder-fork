@@ -2891,6 +2891,111 @@
                 {
                     "hex": "#743A2E",
                     "name": "Brown Sugar"
+                },
+                {
+                    "hex": "#FFDC29",
+                    "name": "Canary"
+                },
+                {
+                    "hex": "#65582F",
+                    "name": "Caper"
+                },
+                {
+                    "hex": "#0D9DAB",
+                    "name": "Caribbean"
+                },
+                {
+                    "hex": "#D15E45",
+                    "name": "Cayenne"
+                },
+                {
+                    "hex": "#273180",
+                    "name": "Celestial"
+                },
+                {
+                    "hex": "#464A93",
+                    "name": "Chicory"
+                                    
+                },
+                {
+                    "hex": "#52739E",
+                    "name": "Ciel"
+                },
+                {
+                    "hex": "#D3ECEB",
+                    "name": "Clarity"
+                },
+                {
+                    "hex": "#595F39",
+                    "name": "Clover"
+                },
+                {
+                    "hex": "#795867",
+                    "name": "Comfrey"
+                },
+                {
+                    "hex": "#CD6f65",
+                    "name": "Conch"
+                },
+                {
+                    "hex": "#E6BE69",
+                    "name": "Cornmeal"
+                },
+                {
+                    "hex": "#D73A91",
+                    "name": "Cosmopolitan"
+                },
+                {
+                    "hex": "#DD7B9E",
+                    "name": "Cotton Candy"
+                },
+                {
+                    "hex": "#F4F0ED",
+                    "name": "Cream"
+                },
+                {
+                    "hex": "#491421",
+                    "name": "Currant"
+                },
+                {
+                    "hex": "#F7DD97",
+                    "name": "Custand"
+                },
+                {
+                    "hex": "#0A9BC4",
+                    "name": "Cyan"
+                },
+                {
+                    "hex": "#14527C",
+                    "name": "Delta"
+                },
+                {
+                    "hex": "#A27045",
+                    "name": "Doe"
+                },
+                {
+                    "hex": "#283738",
+                    "name": "Douglas Fir"
+                },
+                {
+                    "hex": "#7B8649",
+                    "name": "Edamame"
+                },
+                {
+                    "hex": "#362043",
+                    "name": "Eggplant"
+                },
+                {
+                    "hex": "#6B1848",
+                    "name": "Fairy Tale"
+                },
+                {
+                    "hex": "#653A8B",
+                    "name": "French Lavender"
+                },
+                {
+                    "hex": "#A72b7C",
+                    "name": "Fuchsia"
                 }
             ]
         }
